@@ -1,0 +1,19 @@
+#tetris canvas {
+    display: block;
+    margin: 0 auto;
+}
+
+#leaderboard {
+    max-height: 250px;
+    margin-top: 70px;
+    overflow-y: auto;
+}
+#leaderboard th,
+#leaderboard td {
+    color: white;
+}
+
+h1 {
+    color: white;
+    margin: 0 auto
+}
